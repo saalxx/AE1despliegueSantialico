@@ -19,5 +19,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     
 </body>
 </html><form action="" method="post">
+    <h1>es lo mejor</h1>
     <input:button>jugar devuelta</input:button>
 </form>
